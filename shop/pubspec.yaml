@@ -12,6 +12,7 @@ dependencies:
     sdk: flutter
   flutter_web_plugins:
     sdk: flutter
+  get: ^4.6.5
   plugin_platform_interface: ^2.0.2
 
 dev_dependencies:
